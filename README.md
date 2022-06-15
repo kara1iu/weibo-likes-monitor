@@ -1,6 +1,7 @@
 # Description of the App
 
 You will be able to do a user search, add user, and watch the added user's main page likes amount increasing in certain amount of time.
+![image](https://user-images.githubusercontent.com/56362471/173755194-4e493cbb-7126-40e2-ba72-e82d830e7f1f.png)
 
 # Getting Started with Create React App
 
